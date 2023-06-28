@@ -2,7 +2,7 @@
 import { PiSunHorizonDuotone } from "react-icons/pi";
 const First = () => {
   return (
-    <div className="w-[100dvw] h-[400px] bg-gradient-to-tr from-[#E5B89C] to-[#9FAFB6] p-[20px] gap-[10px] md:h-[800px] xl:h-[100svh]">
+    <div className="w-[100dvw] h-[400px] bg-gradient-to-tr from-[#E5B89C] to-[#9FAFB6] p-[0px] gap-[5px] md:h-[800px] xl:h-[100svh] m-0">
       <div className="w-[90svw] h-[360px] ">
         <div className="flex justify-between font-firstatas text-white ">
           <p>
